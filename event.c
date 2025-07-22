@@ -89,5 +89,5 @@ void reverse_stream(Event** head_ref)
         prev = current;
         current = next;
     }
-    *head_ref = prev;
+    *head_ref = prev; 
 }
