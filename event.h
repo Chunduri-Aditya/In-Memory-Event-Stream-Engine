@@ -16,5 +16,5 @@ void delete_event_by_id(Event** head_ref, int id);
 Event* search_event(Event* head, int id);
 void reverse_stream(Event** head_ref);
 void print_stream(Event* head);
-
+ 
 #endif // EVENT_H
