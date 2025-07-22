@@ -17,7 +17,7 @@ int main() {
         printf("6. Exit\n");
         printf("Enter your choice: ");
         scanf("%d", &choice);
-        getchar(); // clear newline
+        getchar(); 
 
         if (choice == 1) {
             int id;
