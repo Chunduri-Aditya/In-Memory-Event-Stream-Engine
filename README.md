@@ -124,7 +124,5 @@ rm event_stream
 ## 📌 Author
 
 **Aditya Chunduri**  
-[LinkedIn](https://linkedin.com/in/adityachunduri)  
-[GitHub](https://github.com/Chunduri-Aditya)
 
 ---
