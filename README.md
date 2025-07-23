@@ -124,7 +124,6 @@ rm event_stream
 ## 📌 Author
 
 **Aditya Chunduri**  
-M.S. Applied Data Science, University of Southern California  
 [LinkedIn](https://linkedin.com/in/adityachunduri)  
 [GitHub](https://github.com/Chunduri-Aditya)
 
